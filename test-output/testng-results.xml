@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T19:20:57 IST" name="Suite" finished-at="2023-12-19T19:24:30 IST" duration-ms="212954">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T19:20:57 IST" name="TestAlone" finished-at="2023-12-19T19:24:30 IST" duration-ms="212954">
+      <class name="ShyamAutomation.StandTestAlone">
+        <test-method signature="test()[pri:0, instance:ShyamAutomation.StandTestAlone@15d49048]" started-at="2023-12-19T19:20:58 IST" name="test" finished-at="2023-12-19T19:24:30 IST" duration-ms="212633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- ShyamAutomation.StandTestAlone -->
+    </test> <!-- TestAlone -->
+  </suite> <!-- Suite -->
+</testng-results>
