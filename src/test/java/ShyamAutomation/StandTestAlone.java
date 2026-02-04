@@ -31,7 +31,6 @@ public class StandTestAlone {
 		   driver.findElement(By.xpath("//div/button[text()=' Add ']")).click();
 		   //WebElement UserRole=driver.findElement(By.xpath("//div/label[text()='User Role']"));
 		   
-		   
 		   //Actions a = new Actions(driver);
 		   //a.moveToElement(UserRole).click().build().perform();
 		   //a.moveToElement(driver.findElement(By.className("oxd-autocomplete-text-input--active"))).keyDown(Keys.ARROW_DOWN).build().perform();
