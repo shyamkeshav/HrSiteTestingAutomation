@@ -13,6 +13,6 @@ public class SimpleTest {
 		TestingBase bt = new TestingBase();
 		FirstPage fp=bt.LaunchPage();
 		fp.SiteLaunch();
-		fp.loginintopage("Admin","admin123");	
+		fp.loginintopage("Admin","admin12345");	
 	}
 }
