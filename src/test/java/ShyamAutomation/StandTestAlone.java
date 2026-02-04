@@ -48,7 +48,7 @@ public class StandTestAlone {
 				  break;
 			  }
 		  }*/
-		   driver.close();
+		   driver.close(); //this is used to close drier at end
 	}
 
 }
